@@ -18,7 +18,8 @@ This involved asking my S.O. who does lots of bleep bloop computer things and ma
 			- they can be symmetrical or mean different things going different ways
 			- wikipedia " Edges are the key concept in graph databases, representing an abstraction that is not directly implemented in a relational model "
 				- this! I think I wasn't getting how this was structurally different from interconnected tables, but "not directly implemented" helps here. its like the keys in relational databases are given their due. Maybe these things are functionally different more than they are structurally different
-			- Properties are things associated with nodes.
+		- Properties 
+			- are things associated with nodes.
 
 
 
