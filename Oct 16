@@ -1,0 +1,34 @@
+I got quite confused about relational databases and nodes and graphs, so I did some of my own research to figure out what these things were. 
+This involved asking my S.O. who does lots of bleep bloop computer things and makes charts for work. Then I looked at some SEO slop websites about kinds of databases, then I read wikipedia articles. Here is what I have learned:
+
+
+- Relational Database:
+	- tables (usually) connected to each other through keys
+	- e.g. double entry book-keeping in excel
+	- very common
+	- this IS spreadsheets but, importantly, it is linked spreadsheets
+
+- Graph database
+	- nodes, relationships, and properties
+		- Node
+			- a thing, a guy, an account (feeling suspiciously like a table)
+		- Relationships
+			- aka edges, aka "graphs" (whyyyy)
+			- these are the main event
+			- they can be symmetrical or mean different things going different ways
+			- wikipedia " Edges are the key concept in graph databases, representing an abstraction that is not directly implemented in a relational model "
+				- this! I think I wasn't getting how this was structurally different from interconnected tables, but "not directly implemented" helps here. its like the keys in relational databases are given their due. Maybe these things are functionally different more than they are structurally different
+			- Properties are things associated with nodes.
+
+
+
+
+
+A question that I still have that would make this all make more sense is:
+
+"is there anything that is literally impossible to translate between these models?"
+
+My understanding right now is no, not really, but it would be really complicated and annoying to do something better suited to graph databases with a relational database. Namely, "traversing," but I still don't really understand the application of this and how it can produce meaningful insights.
+
+
+I think Nodegoat confused the hell out of me. The tutorial is all "relational this" and the name is all "node that" and then in the lecture we were talking about graphs. It is a little confusing what is just ways of presenting and conceptualizing data, and what is different ways of storing it in the computer. I know what a csv file is and that makes understanding relational databases easy. And I still don't know what the storage structure of a graph database is. 
