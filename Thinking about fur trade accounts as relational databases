@@ -1,0 +1,32 @@
+- I am thinking through how to translate 17th century fur trade accounts into something digital. 
+- Important info for someone who is not me: I don't know anything about accounting. I am bad at spreadsheets. I read these account books so that I can learn (often qualitative) stuff about material culture (shirts mostly). Through reading them a bunch, I have figured out how the numbers fit together just so I can understand what they mean so I don't accidentally say "Indigenous people bought 30 blue shirts that year," when in reality 20 of those shirts were actually purchased by employees, 5 were eaten by rats, and only 5 were purchased in the fur trade.
+- The yearly account books are essentially relational databases. They are series of linked tables. The way they are linked is through the accountants brain.
+	- often the accountant writes "by my other books" to note where the link is
+
+### Mindmapping the links and tables
+- I understand the links in an intuitive way after just reading these things a bunch, but those links can also be expressed in a bleep bloop math computer way
+- To start to understand this I made a mindmap illustrating how they are linked. **I am not yet actually showing what rows and columns on one page go into what rows and columns on the other, instead I'm just showing what pages (tables) are actually linked**
+- I played around with obsidian's Canvas feature to do this. Usually I just draw stuff like this out by hand, but I did this so it would just be on my computer. I haven't played with this feature before because I think the whole point of obsidian is keeping stuff texty, but this was pretty useful. 
+	- It was nice dragging stuff around. For example, after writing out every page and how they're connected, that helped me more clearly conceptualize where the actual data inputs were. The account does totals and ledgers based on tallies that are done at the beginning of the book. I knew this, but its nice putting all those weird pages together in one coloured box and definitively calling them the same class of thing.
+
+## My mind map
+- The HBC used standardized double entry bookkeeping, but they had some quirks with how they did stuff.
+	- They didn't record individual transactions, because trade happened in large volumes. Lots of bulk, expenses, bartering, gifts, feasts, etc happened around a few weeks of summer trade, and barely anything happened for the rest of the year.
+	- Because of this, they just compared what was missing at the end of the year with what was gained
+		- I have no record of them counting inventory or keeping a tally of what trade goods went out, so one of the data inputs (trade goods out) is a bit of a mystery as to how it was collected.
+			- The ledger means that they could have either figured out how many items were missing through current inventory count OR the other way around.
+				- same with furs i guess, except they started the year with zero furs so that's simpler.
+					- don't know why i formatted these notes this way. This could just be a paragraph.
+- Everything that is a coloured box is an actual page/table in the yearly account books. Everything that is not coloured is not in the account books (inferred accounts, description, etc.)
+[put map here]
+## Conclusions/ thoughts
+- What this process helped me realize is that if I wanted to create a digital version of the account books, I could effectively do this without OCRing every page. Everything else can be inferred just through the "counts", just like how the 17th century accountant derived the rest of the books through the counts. (men's debts, )
+	- This wouldn't capture quirks and mistakes, but that's probably okay for most people's uses. (I don't have uses in mind right now)
+- This is interesting, because I rarely look at these counts. I look at the ledger. But that's because the ledger is essentially doing some data analysis stuff. It's useful to me because it shows me all the info in the counts at a glance, but filtered by item. Obviously, that was useful to HBC executives too, since they got someone to put all that work in. (I mean, theres an error-mitigating purpose of the ledger too, but since the accounts were all sent to london imagine there was something useful in being able to see all that, rather than just the overplus.)
+- Why not a graph database?
+	- There is a lot of qualitative data in the "expenses" section. I kind of think a graph database might be better suited to analyzing that, but I think you would need the hard numbers side of things to make sense of it anyway. 
+	- The account books already work like a relational database, so this would just be creating a digital version of what is there. Then, if you want to extract bits of it to put into a graph database, you could.
+	- I still don't really understand what a graph database is that well. And I'm not sure if networky stuff with linked spreadsheets is impossible or just requires more steps.
+- I am not sure what my project is going to be. I am talking as though I were doing a huge digitization project, not because that's what I'm actually going to do. I think the experiment is maybe going to be doing some tests to figure out how one might approach a project like that.
+
+
