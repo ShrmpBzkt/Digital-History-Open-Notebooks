@@ -7,7 +7,7 @@
 - I understand the links in an intuitive way after just reading these things a bunch, but those links can also be expressed in a bleep bloop math computer way
 - To start to understand this I made a mindmap illustrating how they are linked. **I am not yet actually showing what rows and columns on one page go into what rows and columns on the other, instead I'm just showing what pages (tables) are actually linked**
 - I played around with obsidian's Canvas feature to do this. Usually I just draw stuff like this out by hand, but I did this so it would just be on my computer. I haven't played with this feature before because I think the whole point of obsidian is keeping stuff texty, but this was pretty useful. 
-	- It was nice dragging stuff around. For example, after writing out every page and how they're connected, that helped me more clearly conceptualize where the actual data inputs were. The account does totals and ledgers based on tallies that are done at the beginning of the book. I knew this, but its nice putting all those weird pages together in one coloured box and definitively calling them the same class of thing.
+	- It was nice dragging stuff around. For example, after writing out every page and how they're connected, that helped me more clearly conceptualize where the actual data inputs were. The account does totals and ledgers based on tallies that are done at the beginning of the book. I *sort of* already understood this, but this allowed me/forced me to clarify it in my mind.
 
 ## My mind map
 - The HBC used standardized double entry bookkeeping, but they had some quirks with how they did stuff.
