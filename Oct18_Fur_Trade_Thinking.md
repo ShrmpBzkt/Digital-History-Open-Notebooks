@@ -18,6 +18,7 @@
 				- same with furs i guess, except they started the year with zero furs so that's simpler.
 					- don't know why i formatted these notes this way. This could just be a paragraph.
 - Everything that is a coloured box is an actual page/table in the yearly account books. Everything that is not coloured is not in the account books (inferred accounts, description, etc.)
+<img width="980" height="837" alt="Screenshot 2026-10-18 at 10 17 30 PM" src="https://github.com/user-attachments/assets/d02a2c43-bbfb-4df8-8d9c-8421a842c6ad" />
 
 
 ## Conclusions/ thoughts
