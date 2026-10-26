@@ -12,7 +12,7 @@ Also, hot github tip, you can end your file names with .md to make them look lik
 - Problem: the tutorial doesn't explain how to run python code. 
 	- Run the code from colab
 - Problem: I forget how to save files from colab
-	- solution: you can see the working directory on the side bar. I'm sure there are other ways but this is helpful.
+	- solution: you can see the working directory on the side bar. You can click ... and download the file or just view it in colab by double-clicking. I'm sure there are other ways but this is helpful.
 - Problem: errors galore when I run the code
 	- solution: I forgot to replace the integer placeholders with actual numbers oopsies
 - Problem: my urls.txt file just says "1"
