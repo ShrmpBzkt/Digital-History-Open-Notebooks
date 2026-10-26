@@ -1,8 +1,10 @@
 I made some notes on problems I had as I did some of Kurschinski's Applied Archival Downloading with wget tutorial.
-Maybe these will be helpful to anyone else who runs into problems
+
+Maybe these will be helpful to anyone else who runs into problems.
+
 I did it in colab because I don't have anything set up to run python on my computer, and also that means you can do it even if you're having trouble installing wget on your computer.
 
-Also, hot github tip, you can end your file names with .md to make them look like this instead of plain text.
+Also, hot github tip, you can end your file names with .md to make them look like this instead of plain text. Maybe Shawn mentioned this but I forgot and had to look it up. You can add pictures too.
 
 
 # Recursive Retrieval and Sequential URLs
